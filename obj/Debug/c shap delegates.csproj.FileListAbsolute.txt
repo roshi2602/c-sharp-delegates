@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\c shap delegates\c shap delegates\bin\Debug\c shap delegates.exe.config
+C:\Users\lenovo\source\repos\c shap delegates\c shap delegates\bin\Debug\c shap delegates.exe
+C:\Users\lenovo\source\repos\c shap delegates\c shap delegates\bin\Debug\c shap delegates.pdb
+C:\Users\lenovo\source\repos\c shap delegates\c shap delegates\obj\Debug\c shap delegates.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\c shap delegates\c shap delegates\obj\Debug\c shap delegates.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\c shap delegates\c shap delegates\obj\Debug\c shap delegates.exe
+C:\Users\lenovo\source\repos\c shap delegates\c shap delegates\obj\Debug\c shap delegates.pdb
